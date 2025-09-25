@@ -6,8 +6,7 @@
 <h3 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me</h3>
 <hr>
 
-
-I am a Mathematician with a Master's degree in Computer Science. My skills include Python programming, Data Science, Natural Language Processing (NLP), Machine Learning, and Deep Learning. I worked on research in the field of biomedical image processing, developing methods and experiments using Python.<br>
+I am a Mathematician with a Master’s degree in Computer Science. Experienced in Python programming, Data Science, Natural Language Processing (NLP), Machine Learning, and Deep Learning. My graduate research centered on biomedical image processing, developing methods and experiments in Python.<br>
 
 - 🔭 Master's thesis — collaborative work with the international DIPY team (<a href="https://github.com/JesusMda/dipy/" target="blank">my fork</a>)<br>
 
