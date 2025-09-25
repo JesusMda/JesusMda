@@ -17,6 +17,7 @@ I am a Mathematician with a Master's degree in Computer Science. My skills inclu
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Languages and Tools:</h3>
+<hr>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -58,6 +59,7 @@ I am a Mathematician with a Master's degree in Computer Science. My skills inclu
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Connect with me:</h3>
+<hr>
 <p align="left">
   <a href="https://www.linkedin.com/in/jesus-antonio-martinez-miranda" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
