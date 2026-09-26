@@ -6,11 +6,18 @@
 <h3 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me</h3>
 <hr>
 
-I am a Mathematician with a Master’s degree in Computer Science. Experienced in Python programming, Data Science, Natural Language Processing (NLP), Machine Learning, and Deep Learning. My graduate research centered on biomedical image processing, developing methods and experiments in Python.<br>
 
-- 🔭 Master's thesis — collaborative work with the international DIPY team (<a href="https://github.com/JesusMda/dipy/" target="blank">my fork</a>)<br>
+I am a **Mathematician with a Master’s degree in Computer Science**, currently working as a **Data Scientist at Dinamic**.
 
-- 🌱 Currently learning cloud technologies (AWS)<br>
+I design and build end-to-end data and NLP pipelines for social listening, processing large-scale social media data with **LLMs, embeddings, information extraction, and cloud technologies** to extract relevant information and generate analytical reports from large-scale social media data.
+
+My background includes **Data Science, Machine Learning, Deep Learning, NLP, and biomedical image processing**. During my master's, I worked on brain tractography in collaboration with the international **DIPY** team.
+
+### 🛠️ Current Stack
+
+**Python · Data Science · Machine Learning · Deep Learning · NLP · LLMs · Data Engineering · AWS · Docker**
+
+Also experienced with **C/C++, R, MATLAB, SQL, Git, and Linux**.
 
 - 📫 Feel free to contact me: jesusmiranda9115@gmail.com
 
